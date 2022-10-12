@@ -10,4 +10,4 @@
 
 * [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-24423-1659942762/blob/main/Ideation%20Phase/LITERATURE_SURVEY.pdf)
 * [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-24423-1659942762/blob/main/Ideation%20Phase/Empathy%20Map.pdf)
-* [Brainstorm & idea Prioritization]([https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Ideation%20Phase/Ideation.pdf](https://github.com/IBM-EPBL/IBM-Project-24423-1659942762/blob/main/Ideation%20Phase/Ideation-1.pdf))
+* [Brainstorm & idea Prioritization]([https://github.com/IBM-EPBL/IBM-Project-33625-1660224672/blob/main/Ideation%20Phase/Ideation.pdf](https://github.com/IBM-EPBL/IBM-Project-24423-1659942762/blob/main/Ideation%20Phase/Ideation-1.pdf)
