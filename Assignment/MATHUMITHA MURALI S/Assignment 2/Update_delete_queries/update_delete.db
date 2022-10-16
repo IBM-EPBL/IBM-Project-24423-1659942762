@@ -1,0 +1,17 @@
+update usertab 
+
+set roll_no=95071912086
+
+where user_name='suba';
+
+update usertab 
+
+set roll_no=95071912097
+
+where user_name='priya';
+
+delete from usertab 
+
+where user_name='tharuna';
+
+select*from usertab;
